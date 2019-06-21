@@ -1,4 +1,4 @@
-# spotify-web-app-with-system-tray
+# spotify-web-app-with-system-tray-support
 Spotify Web App but can be minimised to system tray
 
 I decided developing this toy program because I needed a Spotify application which can be minimised to system tray
