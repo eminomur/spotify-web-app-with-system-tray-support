@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/rsc">
+        <file>Resource/spotify.png</file>
+    </qresource>
+</RCC>
