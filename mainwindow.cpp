@@ -55,10 +55,6 @@ void MainWindow::create_tray_icon()
 
 void MainWindow::create_actions()
 {
-    // All actions defined in order
-    // After actions with shortcuts must be added to list of actions via addActions
-    // Otherwise actions will not behave as expectedly - Shortcuts will not work
-
     change_window_status_action = new QAction(QIcon(":/rsc/Resource/spotify.png"), "Spoti-Tray", this);
     connect(change_window_status_action, &QAction::triggered, this, &MainWindow::change_window_status);
 
